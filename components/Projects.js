@@ -7,6 +7,14 @@ function Projects() {
           <div className="bg-gray-800 p-6 rounded-lg shadow-md">
             <h3 className="text-xl font-semibold text-purple-300">Graphical Password Authentication</h3>
             <p className="mt-2 text-gray-300">Three-phase login system using text, color, and image authentication. Built with Flask, SQLite, and SHA-256.</p>
+            <a
+              href="https://graphical-password-to-avoid-shoulder.onrender.com"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-block mt-4 px-4 py-2 bg-purple-500 hover:bg-green-600 text-white rounded-lg transition"
+            >
+              🚀 Live Demo
+            </a>
           </div>
 
           <div className="bg-gray-800 p-6 rounded-lg shadow-md">
