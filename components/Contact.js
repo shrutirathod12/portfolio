@@ -16,16 +16,16 @@ export default function Contact() {
             I'd love to hear<br />from you.
           </p>
           <div className="flex space-x-6">
-            <a href="https://github.com/" target="_blank" rel="noopener noreferrer">
+            <a href="https://github.com/shrutirathod12" target="_blank" rel="noopener noreferrer">
               <img src="/icons/github.png" alt="GitHub" className="h-10 w-10" />
             </a>
-            <a href="https://discord.com/" target="_blank" rel="noopener noreferrer">
+            <a href="https://discord.com/ShrutiRathod#4929" target="_blank" rel="noopener noreferrer">
               <img src="/icons/discord.png" alt="Discord" className="h-10 w-10" />
             </a>
-            <a href="https://leetcode.com/" target="_blank" rel="noopener noreferrer">
+            <a href="https://leetcode.com/shrutirathod12/" target="_blank" rel="noopener noreferrer">
               <img src="/icons/leetcode (1).png" alt="LeetCode" className="h-9 w-9" />
             </a>
-            <a href="https://linkedin.com/" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.linkedin.com/in/shruti-rathod-75775523b/" target="_blank" rel="noopener noreferrer">
               <img src="/icons/linkedin.png" alt="LinkedIn" className="h-10 w-10" />
             </a>
           </div>
